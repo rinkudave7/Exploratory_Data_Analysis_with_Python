@@ -1,7 +1,7 @@
 # Exploratory_Data_Analysis_with_Python
 
 ## What is this repository about?
-Here, I put some analytic projects that I have done by using Python in this file.
+Here, I put some analytic projects that I have done by using Python in this file. 
 
 ## Main goal of this repository?
 The main goal of these projects are to practice how to wrangle the massive complex dataset by Gathering data, Accessing data, Cleaning data, Analyzing data, Visualizing data. Also I can see some very interesting findings in the end of my analysis.
